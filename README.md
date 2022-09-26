@@ -10,8 +10,8 @@
 ## LeetCode (Add.22.09.26)
 
 - Two Sum
-- Invert Binary Tree`(NEW)`
-- Root Equals Sum of Children`(NEW)`
+- Invert Binary Tree`NEW`
+- Root Equals Sum of Children`NEW`
 
 ## 프로그래머스 (Add.22.09.23)
 
@@ -37,7 +37,7 @@
 - 콜라스 추측
 - 평균 구하기
 - 폰켓몬
-- 프린터`(NEW)`
+- 프린터`NEW`
 - 하샤드 수
 - 핸드폰 번호 가리기
 - X만큼 간격이 있는 N개의 숫자
