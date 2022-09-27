@@ -13,6 +13,7 @@
 - Two Sum
 - Invert Binary Tree`NEW`
 - Root Equals Sum of Children`NEW`
+- Remove All Adjacent Duplicates In String`NEW`
 
 ## 프로그래머스 (Add.22.09.23)
 
