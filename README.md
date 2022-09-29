@@ -8,13 +8,14 @@
 
 ---
 
-## LeetCode (Add.22.09.28)
+## LeetCode (Add.22.09.29)
 
 - Two Sum
 - Invert Binary Tree
-- Root Equals Sum of Children`NEW`
-- Remove All Adjacent Duplicates In String`NEW`
-- Merge Nodes in Between Zeros`NEW`
+- Root Equals Sum of Children
+- Remove All Adjacent Duplicates In String
+- Merge Nodes in Between Zeros
+- Convert Binary Number in a Linked List to Integer`NEW`
 
 ## 프로그래머스 (Add.22.09.23)
 
@@ -40,7 +41,7 @@
 - 콜라스 추측
 - 평균 구하기
 - 폰켓몬
-- 프린터`NEW`
+- 프린터
 - 하샤드 수
 - 핸드폰 번호 가리기
 - X만큼 간격이 있는 N개의 숫자
