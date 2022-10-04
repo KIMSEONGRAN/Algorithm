@@ -18,6 +18,8 @@
 - Convert Binary Number in a Linked List to Integer
 - Maximum Twin Sum of a Linked List
 - Merge In Between Linked Lists`NEW`
+- Swapping Nodes in a Linked List`NEW`
+  - 4일 소요...
 
 ## 프로그래머스 (Add.22.09.23)
 
