@@ -8,7 +8,7 @@
 
 ---
 
-## LeetCode (Add.22.10.02)
+## LeetCode (Add.22.10.05)
 
 - Two Sum
 - Invert Binary Tree
@@ -20,6 +20,7 @@
 - Merge In Between Linked Lists`NEW`
 - Swapping Nodes in a Linked List`NEW`
   - 4일 소요...
+- Partitioning Into Minimum Number Of Deci-Binary Numbers`NEW`
 
 ## 프로그래머스 (Add.22.09.23)
 
