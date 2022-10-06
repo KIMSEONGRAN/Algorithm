@@ -17,8 +17,8 @@
 - Merge Nodes in Between Zeros
 - Convert Binary Number in a Linked List to Integer
 - Maximum Twin Sum of a Linked List
-- Merge In Between Linked Lists`NEW`
-- Swapping Nodes in a Linked List`NEW`
+- Merge In Between Linked Lists
+- Swapping Nodes in a Linked List
   - 4일 소요...
 - Partitioning Into Minimum Number Of Deci-Binary Numbers
 - Shuffle String`NEW`
