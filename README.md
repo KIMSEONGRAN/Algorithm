@@ -8,7 +8,7 @@
 
 ---
 
-## LeetCode (Add.22.10.06)
+## LeetCode (Add.22.10.07)
 
 - Two Sum
 - Invert Binary Tree
@@ -21,8 +21,9 @@
 - Swapping Nodes in a Linked List
   - 4일 소요...
 - Partitioning Into Minimum Number Of Deci-Binary Numbers
-- Shuffle String`NEW`
-- Partition Array According to Given Pivot`NEW`
+- Shuffle String
+- Partition Array According to Given Pivot
+- Deepest Leaves Sum
 
 ## 프로그래머스 (Add.22.09.23)
 
