@@ -8,7 +8,7 @@
 
 ---
 
-## LeetCode (Add.22.10.07)
+## LeetCode (Add.22.10.11)
 
 - Two Sum
 - Invert Binary Tree
@@ -24,6 +24,7 @@
 - Shuffle String
 - Partition Array According to Given Pivot
 - Deepest Leaves Sum
+- Minimum Sum of Four Digit Number After Splitting Digits`NEW`
 
 ## 프로그래머스 (Add.22.09.23)
 
