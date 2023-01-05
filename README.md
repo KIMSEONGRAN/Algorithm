@@ -10,22 +10,46 @@
 
 ## LeetCode (Add.22.10.12)
 
-- Two Sum
-- Invert Binary Tree
-- Root Equals Sum of Children
-- Remove All Adjacent Duplicates In String
-- Merge Nodes in Between Zeros
-- Convert Binary Number in a Linked List to Integer
-- Maximum Twin Sum of a Linked List
-- Merge In Between Linked Lists
-- Swapping Nodes in a Linked List
+- 1. Two Sum
+- 20. Valid Parentheses
+- 226. Invert Binary Tree
+- 771. Jewels and Stones `NEW`
+- 1047. Remove All Adjacent Duplicates In String
+- 1108. Defanging an IP Address `NEW`
+- 1281. Subtract the Product and Sum of Digits of an Integer `NEW`
+- 1290. Convert Binary Number in a Linked List to Integer
+- 1302. Deepest Leaves Sum
+- 1342. Number of Steps to Reduce a Number to Zero `NEW`
+- 1365.How Many Numbers Are Smaller Than the Current Number `NEW`
+- 1431.Kids With the Greatest Number of Candies `NEW`
+- 1470. Shuffle the Array `NEW`
+- 1480. Running Sum of 1d Array `NEW`
+- 1512. Number of Good Pairs `NEW`
+- 1528. Shuffle String
+- 1662. Check If Two String Arrays are Equivalent `NEW`
+- 1669. Merge In Between Linked Lists
+- 1672. Richest Customer Wealth `NEW`
+- 1678. Goal Parser Interpretation `NEW`
+- 1688. Count of Matches in Tournament `NEW`
+- 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+- 1721. Swapping Nodes in a Linked List
   - 4일 소요...
-- Partitioning Into Minimum Number Of Deci-Binary Numbers
-- Shuffle String
-- Partition Array According to Given Pivot
-- Deepest Leaves Sum
-- Minimum Sum of Four Digit Number After Splitting Digits
-- Valid Parentheses`NEW`
+- 1773. Count Items Matching a Rule `NEW`
+- 1832. Check if the Sentence Is Pangram `NEW`
+- 1859. Sorting the Sentence `NEW`
+- 1920. Build Array from Permutation `NEW`
+- 1929. Concatenation of Array `NEW`
+- 2011. Final Value of Variable After Performing Operations `NEW`
+- 2114. Maximum Number of Words Found in Sentences `NEW`
+- 2130. Maximum Twin Sum of a Linked List
+- 2160. Minimum Sum of Four Digit Number After Splitting Digits
+- 2161. Partition Array According to Given Pivot
+- 2181. Merge Nodes in Between Zeros
+- 2194. Cells in a Range on an Excel Sheet `NEW`
+- 2235. Add Two Integers `NEW`
+- 2236. Root Equals Sum of Children
+- 2413. Smallest Even Multiple `NEW`
+- 2469. Convert the Temperature `NEW`
 
 ## 프로그래머스 (Add.22.09.23)
 
