@@ -8,12 +8,12 @@
 
 ---
 
-## LeetCode (Add.22.10.12)
+## LeetCode (Add.23.01.05)
 
-- 1. Two Sum
+- 1.  Two Sum
 - 20. Valid Parentheses
-- 226. Invert Binary Tree
-- 771. Jewels and Stones `NEW`
+- 226.  Invert Binary Tree
+- 771.  Jewels and Stones `NEW`
 - 1047. Remove All Adjacent Duplicates In String
 - 1108. Defanging an IP Address `NEW`
 - 1281. Subtract the Product and Sum of Digits of an Integer `NEW`
