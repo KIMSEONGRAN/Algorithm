@@ -8,11 +8,12 @@
 
 ---
 
-## LeetCode (Add.23.01.05)
+## LeetCode
 
 - 1.Two Sum
 - 20.Valid Parentheses
 - 226.Invert Binary Tree
+- 278.First Bad Version `NEW✨️`
 - 771.Jewels and Stones
 - 1047.Remove All Adjacent Duplicates In String
 - 1108.Defanging an IP Address
@@ -35,12 +36,12 @@
 - 1721.Swapping Nodes in a Linked List
   - 4일 소요...
 - 1773.Count Items Matching a Rule
-- 1816.Truncate Sentence `NEW✨️`
+- 1816.Truncate Sentence
 - 1832.Check if the Sentence Is Pangram
 - 1859.Sorting the Sentence
 - 1920.Build Array from Permutation
 - 1929.Concatenation of Array
-- 2006.Count Number of Pairs With Absolute Difference K `NEW✨️`
+- 2006.Count Number of Pairs With Absolute Difference K
 - 2011.Final Value of Variable After Performing Operations
 - 2114.Maximum Number of Words Found in Sentences
 - 2130.Maximum Twin Sum of a Linked List
@@ -53,7 +54,7 @@
 - 2413.Smallest Even Multiple
 - 2469.Convert the Temperature
 
-## 프로그래머스 (Add.22.09.23)
+## 프로그래머스
 
 - 3진법 뒤집기
 - 가운데 글자 가져오기
