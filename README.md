@@ -13,7 +13,7 @@
 - 1.Two Sum
 - 20.Valid Parentheses
 - 226.Invert Binary Tree
-- 278.First Bad Version `NEW✨️`
+- 278.First Bad Version
 - 771.Jewels and Stones
 - 1047.Remove All Adjacent Duplicates In String
 - 1108.Defanging an IP Address
@@ -34,7 +34,6 @@
 - 1688.Count of Matches in Tournament
 - 1689.Partitioning Into Minimum Number Of Deci-Binary Numbers
 - 1721.Swapping Nodes in a Linked List
-  - 4일 소요...
 - 1773.Count Items Matching a Rule
 - 1816.Truncate Sentence
 - 1832.Check if the Sentence Is Pangram
@@ -53,6 +52,7 @@
 - 2236.Root Equals Sum of Children
 - 2413.Smallest Even Multiple
 - 2469.Convert the Temperature
+- 2529.Maximum Count of Positive Integer and Negative Integer `NEW✨️`
 
 ## 프로그래머스
 
